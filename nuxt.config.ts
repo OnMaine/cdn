@@ -16,7 +16,7 @@ export default defineNuxtConfig({
         { name: 'format-detection', content: 'telephone=no' },
       ],
     },
-    cdnURL: 'https://cdn.example.com',
+    cdnURL: 'https://11111cdn.example.com',
   },
 
   compatibilityDate: '2024-04-03',
